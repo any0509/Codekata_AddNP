@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Codekata_AddNP/Codekata_AddNP.vcxproj" Id="28ab5c95-e1ee-43c6-abfc-7f2f1bdc0f7f" />
+</Solution>

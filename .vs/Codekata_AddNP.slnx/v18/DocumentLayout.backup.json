@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitStudy\\Codekata_AddNP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28AB5C95-E1EE-43C6-ABFC-7F2F1BDC0F7F}|Codekata_AddNP\\Codekata_AddNP.vcxproj|C:\\GitStudy\\Codekata_AddNP\\Codekata_AddNP\\sollution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28AB5C95-E1EE-43C6-ABFC-7F2F1BDC0F7F}|Codekata_AddNP\\Codekata_AddNP.vcxproj|solutionrelative:Codekata_AddNP\\sollution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sollution.cpp",
+              "DocumentMoniker": "C:\\GitStudy\\Codekata_AddNP\\Codekata_AddNP\\sollution.cpp",
+              "RelativeDocumentMoniker": "Codekata_AddNP\\sollution.cpp",
+              "ToolTip": "C:\\GitStudy\\Codekata_AddNP\\Codekata_AddNP\\sollution.cpp",
+              "RelativeToolTip": "Codekata_AddNP\\sollution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T01:01:36.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
